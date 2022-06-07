@@ -4,9 +4,21 @@
 Instalando Wordpress con Azzure
 
 
-![Imagen 1](https://github.com/JoseAlbertoMV/Semana01_T01/blob/c250efeb95d9e19c01164169fc756a99095d1dc5/Semana%201%20T1/Image01.png)
+![Imagen 1](https://github.com/JoseAlbertoMV/Semana02_T1/blob/8b313c8a8b61b3906c840e6b31450244028ddf12/Semana2%20T1/imagen01.png)
 
 **Imagen 1**
+
+![Imagen 2](https://github.com/JoseAlbertoMV/Semana02_T1/blob/8b313c8a8b61b3906c840e6b31450244028ddf12/Semana2%20T1/imagen02.png)
+
+**Imagen 2**
+
+![Imagen 3](https://github.com/JoseAlbertoMV/Semana02_T1/blob/8b313c8a8b61b3906c840e6b31450244028ddf12/Semana2%20T1/imagen03.png)
+
+**Imagen 3**
+
+![Imagen 4](https://github.com/JoseAlbertoMV/Semana02_T1/blob/8b313c8a8b61b3906c840e6b31450244028ddf12/Semana2%20T1/imagen04.png)
+
+**Imagen 4**
 
 
 
